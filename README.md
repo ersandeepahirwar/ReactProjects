@@ -9,3 +9,6 @@
 
 ### [netflix.com](https://application2point0.netlify.app/)
 <img src="https://i.ibb.co/zFdNZDq/Oneview.png" alt="netflix.com UI Clone Oneview" width="100%" />
+
+### [Calculator](https://calculator2point0.netlify.app/)
+<img src="https://i.ibb.co/XrPvyYWs/oneview.png" alt="Calculator Oneview" width="100%" />
